@@ -20,9 +20,11 @@ The primary requirements for this project are Python 3.x and Jupyter Notebook. T
 pip install pandas numpy matplotlib sklearn
 ```
 
+Also utils.py file is necessary for proper work of project.
+
 ## Usage
 
-To run the project, open the Jupyter Notebook file `project_milestone2.ipynb` in Jupyter Notebook and execute the cells in order.
+To run the project, open the Jupyter Notebook file `Chicago Inspection.ipynb` in Jupyter Notebook and execute the cells in order.
 
 ## Results
 
